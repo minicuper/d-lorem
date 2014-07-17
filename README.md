@@ -1,7 +1,7 @@
 # d-lorem
 ---
 
-## Derby 0.6 'lorem ipsum'-text generator component
+## Derby 0.6 lorem ipsum generator component
 
 ### Usage
 
