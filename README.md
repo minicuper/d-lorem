@@ -5,14 +5,17 @@
 
 ### Usage
 
+Install:
 ```bash
 npm install d-lorem
 ```
 
+Add to app:
 ```js
 app.component(require('d-lorem'));
 ```
 
+Use in html view-file:
 ```html
 <!--  5 sentences -->
   <lorem val="5"/>
@@ -20,13 +23,13 @@ app.component(require('d-lorem'));
   <lorem val="s5"/>
 
 <!--  3 paragraps wrapped in <p>-tag -->
-<lorem val="p3"/>
+  <lorem val="p3"/>
 
 <!--  3 paragraps plain text -->
-<lorem val="p3" plain/>
+  <lorem val="p3" plain/>
 
 <!--  7 words -->
-<lorem val="w7"/>
+  <lorem val="w7"/>
 ```
 
 ## MIT License
