@@ -1,0 +1,20 @@
+{
+  "name": "d-lorem",
+  "version": "0.0.0",
+  "description": "Derby 0.6 lorem-ipsum component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "derby",
+    "lorem",
+    "ipsum"
+  ],
+  "author": "Artur Zayats <zag2art@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lorem-ipsum": "~1.0.1",
+    "seedrandom": "~2.3.6"
+  }
+}
