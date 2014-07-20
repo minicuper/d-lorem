@@ -1,6 +1,6 @@
 {
   "name": "d-lorem",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Derby 0.6 lorem-ipsum component",
   "main": "index.js",
   "scripts": {
