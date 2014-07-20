@@ -7,6 +7,7 @@ module.exports = Lorem;
 function Lorem(){}
 
 Lorem.prototype.view = __dirname;
+Lorem.prototype.name = 'd-lorem';
 
 Lorem.prototype.init = function(){
   var rnd = seedrandom(this.model.get('id') || this.id);
