@@ -14,6 +14,13 @@
   ],
   "author": "Artur Zayats <zag2art@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derbyparty/d-lorem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/derbyparty/d-lorem/issues"
+  },
   "dependencies": {
     "lorem-ipsum": "~1.0.1",
     "seedrandom": "~2.3.6"
